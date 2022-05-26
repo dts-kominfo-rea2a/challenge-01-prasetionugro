@@ -86,7 +86,7 @@ const secondUser = {
     gender: "Male",
     age: "23",
     email: "wendy@dingdong.com",
-    favoriteColor: [...favColorMonica],
+    favoriteColor: [...favColorWendy],
     isHavePet: "No",
     education: educationWendy,
     favoriteRestaurant: [...favRestaurantWendy]
