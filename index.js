@@ -42,10 +42,10 @@ const firstUser = {
     gender: "Female",
     age: "17",
     email: "monica@dingdong.com",
-    favoriteColor: favColorMonica,
+    favoriteColor: [...favColorMonica],
     isHavePet: "Yes",
     education: educationMonica,
-    favoriteRestaurant: favRestaurantMonica
+    favoriteRestaurant: [...favRestaurantMonica]
 };
 
 // Buat Set untuk favorite color & favorite restaurant Wendy
@@ -86,10 +86,10 @@ const secondUser = {
     gender: "Male",
     age: "23",
     email: "wendy@dingdong.com",
-    favoriteColor: favColorWendy,
+    favoriteColor: [...favColorMonica],
     isHavePet: "No",
     education: educationWendy,
-    favoriteRestaurant: favRestaurantWendy
+    favoriteRestaurant: [...favRestaurantWendy]
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
