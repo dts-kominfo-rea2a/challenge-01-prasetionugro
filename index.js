@@ -18,6 +18,7 @@ favColorMonica.add ("Purple");
 
 favRestaurantMonica.add ("Bento");
 favRestaurantMonica.add ("Sushi");
+favRestaurantMonica.add ("Pancake")
 favRestaurantMonica.add ("Eggy");
 favRestaurantMonica.add ("Tempura");
 favRestaurantMonica.add ("Bento");
